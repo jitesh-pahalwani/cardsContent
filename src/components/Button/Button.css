@@ -1,0 +1,10 @@
+.buttonContainer {
+  margin: auto;
+  background-color: black;
+  cursor: pointer;
+  max-width: 75px;
+  color: white;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}

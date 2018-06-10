@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "MacBook",
+      "description": "This is an awesome MacBook.",
+      "image": "/images/macbook.jpeg"
+    },
+    {
+      "title": "iPad",
+      "description": "A marvellous iPad just for you.",
+      "image": "/images/ipad.jpeg"
+    },
+    {
+      "title": "iPhone",
+      "description": "This is a superb iPhone.",
+      "image": "/images/iphone.jpeg"
+    }
+  ]
+}
